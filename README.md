@@ -1,7 +1,2 @@
-# helli-world
-How to work
+# hello-world
 
-
-Hello World
-
-Doing some test using Github for the first time
